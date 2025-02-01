@@ -1,6 +1,6 @@
 # Instagram Unfollowers Checker
 
-Instagram Unfollowers Checker adalah alat yang memungkinkan pengguna untuk melihat daftar akun yang telah berhenti mengikuti mereka di Instagram. Dengan menggunakan metode yang aman dan sesuai kebijakan Instagram, alat ini membantu pengguna dalam mengelola interaksi mereka tanpa harus mengecek satu per satu secara manual. | Created by [M Sukri](https://www.instagram.com/msukri_03/)
+Instagram Unfollowers Checker adalah alat yang memungkinkan pengguna untuk melihat daftar akun yang telah berhenti mengikuti mereka di Instagram. Dengan menggunakan metode yang aman dan sesuai kebijakan Instagram, alat ini membantu pengguna dalam mengelola interaksi mereka tanpa harus mengecek satu per satu secara manual. | **Created by [M Sukri](https://www.instagram.com/msukri_03/)**
 
 Browser-based and requires no downloads or installations!
 
@@ -18,6 +18,12 @@ Developer sangat peduli dengan keamanan dan privasi pengguna. Oleh karena itu:
 - **Tidak meminta informasi login**: Pengguna hanya login melalui situs web resmi Instagram.
 - **Selalu waspada terhadap layanan yang meminta informasi login atau akses token Instagram Anda**.
 
+## 📸 Preview
+Berikut adalah tampilan alat ini saat dijalankan:
+
+![Preview Instagram Unfollowers Checker](assets/preview1.png)
+
+*Gambar di atas adalah ilustrasi tampilan alat ini saat digunakan.*
 
 ## 📌 Cara Penggunaan
 1. **Copy code** berikut dari url ini **[Instagram Unfolowers Checker Github](https://msxky.github.io/instagramUnfollowersV2/)**.
