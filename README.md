@@ -19,15 +19,15 @@ Developer sangat peduli dengan keamanan dan privasi pengguna. Oleh karena itu:
 - **Selalu waspada terhadap layanan yang meminta informasi login atau akses token Instagram Anda**.
 
 ## 📸 Preview
-Berikut adalah tampilan alat ini saat digunakan:
+Berikut adalah tampilan UI  saat digunakan:
 
 ### 1️⃣ Tampilan Awal dengan Tombol Start
-Saat pertama kali membuka alat ini, Anda akan melihat tombol **"Start"** untuk memulai proses.
+Saat pertama kali membuka, Anda akan melihat tombol **"Start"** untuk memulai proses.
 
 ![Tampilan Awal](assets/preview1.png)
 
 ### 2️⃣ Tampilan Saat Pertama Masuk Sebelum Scan
-Setelah tombol **"Start"** ditekan, alat akan siap untuk mulai melakukan pemindaian.
+Setelah tombol **"Start"** ditekan, akan siap untuk mulai melakukan pemindaian.
 
 ![Sebelum Scan](assets/preview2.png)
 
