@@ -55,7 +55,7 @@ Setelah proses scan selesai, daftar akun yang berhenti mengikuti Anda akan ditam
 Gunakan dengan risiko Anda sendiri! Semua data yang diproses hanya untuk tujuan pribadi dan bukan untuk tujuan komersial.
 
 ## 💬 Feedback & Dukungan
-Jika Anda memiliki umpan balik, pertanyaan, atau ingin memberikan dukungan kepada pengembang, Dapat melakukannya melalui **[Saweria](https://sociabuzz.com/msxki)**.
+Jika Anda memiliki umpan balik, pertanyaan, atau ingin memberikan dukungan kepada pengembang, Dapat melakukannya melalui **[Sociabuzz](https://sociabuzz.com/msxki)**.
 
 Jangan lupa untuk mengikuti saya di Instagram untuk update project menarik lainnya: **[M Sukri](https://www.instagram.com/msukri_03/)**.
 
