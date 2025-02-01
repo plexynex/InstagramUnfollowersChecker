@@ -67,4 +67,4 @@ Setiap dukungan anda sangat berarti dan membantu pengembang dalam mengembangkan 
 ---
 
 Gunakan code script ini dengan bijak dan selalu prioritaskan keamanan akun Anda!
-🚀 **Keep stay safe!** 🔒
+🚀 **Stay safe!** 🔒
