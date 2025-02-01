@@ -18,6 +18,14 @@ Developer sangat peduli dengan keamanan dan privasi pengguna. Oleh karena itu:
 - **Tidak meminta informasi login**: Pengguna hanya login melalui situs web resmi Instagram.
 - **Selalu waspada terhadap layanan yang meminta informasi login atau akses token Instagram Anda**.
 
+## 📌 Cara Penggunaan
+1. **Copy code** berikut dari url ini **[Instagram Unfolowers Checker Github](https://msxky.github.io/instagramUnfollowersV2/)**.
+1. **Buka browser** dan login ke Instagram melalui **[instagram.com](https://www.instagram.com/)**.
+2. **Buka Developer Tools** dengan menekan `F12` atau `Ctrl + Shift + J` (untuk Windows) atau `Cmd + Option + J` (untuk Mac).
+3. **Tempelkan kode di bagian console**, lalu tekan `Enter` untuk menjalankannya.
+4. **Script akan membandingkan daftar followers dan following** untuk menampilkan akun yang berhenti mengikuti.
+5. **Lihat hasilnya** dalam format yang mudah dipahami.
+
 ## 📸 Preview
 Berikut adalah tampilan UI  saat digunakan:
 
@@ -35,14 +43,6 @@ Setelah tombol **"Start"** ditekan, akan siap untuk mulai melakukan pemindaian.
 Setelah proses scan selesai, daftar akun yang berhenti mengikuti Anda akan ditampilkan.
 
 ![Setelah Scan](assets/preview3.png)
-
-## 📌 Cara Penggunaan
-1. **Copy code** berikut dari url ini **[Instagram Unfolowers Checker Github](https://msxky.github.io/instagramUnfollowersV2/)**.
-1. **Buka browser** dan login ke Instagram melalui **[instagram.com](https://www.instagram.com/)**.
-2. **Buka Developer Tools** dengan menekan `F12` atau `Ctrl + Shift + J` (untuk Windows) atau `Cmd + Option + J` (untuk Mac).
-3. **Tempelkan kode di bagian console**, lalu tekan `Enter` untuk menjalankannya.
-4. **Script akan membandingkan daftar followers dan following** untuk menampilkan akun yang berhenti mengikuti.
-5. **Lihat hasilnya** dalam format yang mudah dipahami.
 
 ## 📝 Catatan
 - Semakin banyak pengguna yang harus Anda periksa, semakin banyak waktu yang dibutuhkan untuk proses perbandingan daftar followers dan following.
