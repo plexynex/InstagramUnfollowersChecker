@@ -19,11 +19,22 @@ Developer sangat peduli dengan keamanan dan privasi pengguna. Oleh karena itu:
 - **Selalu waspada terhadap layanan yang meminta informasi login atau akses token Instagram Anda**.
 
 ## 📸 Preview
-Berikut adalah tampilan alat ini saat dijalankan:
+Berikut adalah tampilan alat ini saat digunakan:
 
-![Preview Instagram Unfollowers Checker](assets/preview1.png)
+### 1️⃣ Tampilan Awal dengan Tombol Start
+Saat pertama kali membuka alat ini, Anda akan melihat tombol **"Start"** untuk memulai proses.
 
-*Gambar di atas adalah ilustrasi tampilan alat ini saat digunakan.*
+![Tampilan Awal](assets/preview1.png)
+
+### 2️⃣ Tampilan Saat Pertama Masuk Sebelum Scan
+Setelah tombol **"Start"** ditekan, alat akan siap untuk mulai melakukan pemindaian.
+
+![Sebelum Scan](assets/preview2.png)
+
+### 3️⃣ Tampilan Setelah Scan Selesai
+Setelah proses scan selesai, daftar akun yang berhenti mengikuti Anda akan ditampilkan.
+
+![Setelah Scan](assets/preview3.png)
 
 ## 📌 Cara Penggunaan
 1. **Copy code** berikut dari url ini **[Instagram Unfolowers Checker Github](https://msxky.github.io/instagramUnfollowersV2/)**.
