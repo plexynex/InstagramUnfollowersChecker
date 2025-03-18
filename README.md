@@ -20,7 +20,7 @@ Developer sangat peduli dengan keamanan dan privasi pengguna. Oleh karena itu:
 
 ## 📌 Cara Penggunaan
 1. **Copy code** berikut dari url ini **[Instagram Unfolowers Checker Github](https://msxky.github.io/InstagramUnfollowersChecker/)**.
-1. **Buka browser** dan login ke Instagram melalui **[instagram.com](https://www.instagram.com/)**.
+1. **Buka browser desktop** dan login ke Instagram melalui **[instagram.com](https://www.instagram.com/)**.
 2. **Buka Developer Tools** dengan menekan `F12` atau `Ctrl + Shift + J` (untuk Windows) atau `Cmd + Option + J` (untuk Mac).
 3. **Tempelkan kode di bagian console**, lalu tekan `Enter` untuk menjalankannya.
 4. **Script akan membandingkan daftar followers dan following** untuk menampilkan akun yang berhenti mengikuti.
