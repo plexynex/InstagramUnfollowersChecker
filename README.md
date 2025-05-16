@@ -17,6 +17,8 @@ Developer sangat peduli dengan keamanan dan privasi pengguna. Oleh karena itu:
 - **Menggunakan API resmi Instagram**: Data diambil dengan cara yang sah dan sesuai dengan kebijakan privasi Instagram.
 - **Tidak meminta informasi login**: Pengguna hanya login melalui situs web resmi Instagram.
 - **Selalu waspada terhadap layanan yang meminta informasi login atau akses token Instagram Anda**.
+- **Minimalisir penggunaan tombol unfollow untuk beberapa pengguna yg dipilih (unfolowers massal) Jangan unfollow >100 akun/hari dengan tombol tersebut.Gunakan opsi lebih aman yaitu copy list dan unfoll satu persatu**
+- **Gunakan code (jalankan ulang) dengan jeda Istirahat 30 menit setelah unfollow batch di akun yg sama agar tidak terdeteksi bot**
 
 ## 📌 Cara Penggunaan
 1. **Copy code** berikut dari url ini **[Instagram Unfolowers Checker Github](https://plexynex.github.io/InstagramUnfollowersChecker/)**.
@@ -66,5 +68,5 @@ Setiap dukungan anda sangat berarti dan membantu pengembang dalam mengembangkan 
 
 ---
 
-Gunakan code script ini dengan bijak dan selalu prioritaskan keamanan akun Anda!
-🚀 **Stay safe!** 🔒
+**Disclaimer:** Gunakan code script ini dengan bijak. Risiko banned tergantung pola penggunaan. selalu prioritaskan keamanan akun Anda!
+🚀 **Stay safe!** 🔒 
